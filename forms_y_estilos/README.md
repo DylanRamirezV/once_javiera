@@ -1,4 +1,4 @@
-# 📝 Explicación: Versión 2 (Identidad Violeta Resplandeciente ⚡)
+# 📝 Explicación: Formulario tecnologico 💜
 
 Mi versión utiliza una paleta de colores más tecnológica. Estos son los ajustes técnicos que hice:
 
